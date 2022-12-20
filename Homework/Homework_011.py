@@ -7,8 +7,11 @@
 
 import random
 random_list = [i * random.randint(-9,9) for i in range(random.randint(1,15))]
-print(random_list)
+print(random_list, end=' -> elements in odd positions are ')
+
+for element in random_list[1:len(random_list):2]:
+    print(element, end=', ')
 
 result = sum(element for i, element in enumerate(random_list) if i % 2 != 0)
-print(result)
+print(f"it's sum is: {result}")
 
