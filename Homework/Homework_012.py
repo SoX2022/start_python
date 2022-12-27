@@ -7,11 +7,13 @@
 
 
 import random
+#import math
 
 array = [i * random.randint(-9,9) for i in range(random.randint(1,10))]
 result = []
 
+#for i in range(ceil(len(array) / 2)):
 for i in range(round(len(array) / 2 + 0.1)):
-    result.append(array[i] * array[i * (-1) -1])
+    result.append(array[i] * array[-i -1])
 print(f'{array} => {result}')
 
