@@ -16,7 +16,7 @@ def main():
     k = GetPositiveIntegerValue('k = ')
     result = 'k = ' + str(k) + ' => '
 
-    random_coefficient = random.randint(0,99)
+    random_coefficient = random.randint(1,99)
     if random_coefficient != 0:
         result += str(random_coefficient) + 'x^' + str(k) + ' '
 

@@ -3,7 +3,7 @@
 
 def GetMaxCoefficient(max_coefficient, array):
     for i, element in enumerate(array):
-        if int(array[i][element.find('^') + 1]) > max_coefficient:
+        if int(array[i][element.find('^') + 1]) > max_coefficient and int(element.find('^')) != -1:
             max_coefficient = int(array[i][element.find('^') + 1])
     return max_coefficient
 
@@ -48,16 +48,8 @@ def main():
 
     max_coefficient = 0
 
-    # GetMaxCoefficient(max_coefficient, first_equation)
-    # GetMaxCoefficient(max_coefficient, second_equation)
-
-    for i, element in enumerate(first_equation):
-        if int(first_equation[i][element.find('^') + 1]) > max_coefficient:
-            max_coefficient = int(first_equation[i][element.find('^') + 1])
-
-    for i, element in enumerate(second_equation):
-        if int(second_equation[i][element.find('^') + 1]) > max_coefficient:
-            max_coefficient = int(second_equation[i][element.find('^') + 1])
+    max_coefficient = GetMaxCoefficient(max_coefficient, first_equation)
+    max_coefficient = GetMaxCoefficient(max_coefficient, second_equation)
 
     result = []
     first_array = []
