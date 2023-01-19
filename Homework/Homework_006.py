@@ -18,12 +18,28 @@ def GetFloatValue(message):
     return float(value)
 
 
-user_number = GetFloatValue('Enter your number: ')
-print(f'{user_number}', end=' -> ')
+def HM6():
+    user_number = GetFloatValue('Enter your number: ')
+    print(f'{user_number}', end=' -> ')
 
-sum = 0
-user_number = str(user_number).replace('.', '').replace('-', '')
-for i in range (len(user_number)):
-    sum += int(user_number[i])
-print(sum)
+    sum = 0
+    user_number = str(user_number).replace('.', '').replace('-', '')
+    for i in range (len(user_number)):
+        sum += int(user_number[i])
+    print(sum)
+
+
+
+def HM25():
+    q = list(map(int,filter(lambda x: x not in ('-', '.', ','), input('Enter your number: '))))
+    print(f'Sum = {sum(q)}')
+
+
+def main():
+    HM25()
+
+
+
+if __name__ == "__main__":
+    main()
 

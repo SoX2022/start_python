@@ -19,9 +19,12 @@ def ListShuffle(array):
 
 user_number = GetPositiveIntegerValue('Enter the number of elements: ')
 
-user_list = []
-for i in range(-user_number, user_number + 1):
-    user_list.append(i)
+
+user_list = [i for i in range(-user_number, user_number + 1)]
+
+# user_list = []
+# for i in range(-user_number, user_number + 1):
+#     user_list.append(i)
 
 print(user_list)
 ListShuffle(user_list)
