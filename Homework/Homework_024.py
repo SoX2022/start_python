@@ -1,6 +1,6 @@
 # Реализуйте RLE алгоритм: реализуйте модуль сжатия и восстановления данных.
 
-
+ 
 def StringCompressing(text):
     count = 1
     compressed_string = ''
@@ -17,11 +17,16 @@ def StringCompressing(text):
 
 def StringDecopressing(text):
     decompressed_string = ''
-
-    for i in range(len(text)):
-        for j in range(0, len(text[i].replace('\n', '')), 2):
-            decompressed_string += text[i][j + 1] * int(text[i][j])
-        text[i] = decompressed_string + '\n'
+    temp = ''
+    for j, i in enumerate(text):
+        i = i.replace('\n', '')
+        for element in i:
+            if element.isdigit():
+                temp += element
+            else:
+                decompressed_string += element * int(temp)
+                temp = ''
+        text[j] = decompressed_string + '\n'
         decompressed_string = ''
 
 
