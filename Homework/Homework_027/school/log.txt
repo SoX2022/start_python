@@ -1,0 +1,834 @@
+01/25/23 00:15:22 - Last student`s id succsessfully copied.
+01/25/23 00:15:22 - Classes succsessfully copied.
+01/25/23 00:16:41 - Student successfully added.
+01/25/23 00:16:54 - Student successfully added in class.
+01/25/23 00:16:54 - Students saved as Data.
+01/25/23 00:17:35 - Student successfully added.
+01/25/23 00:17:39 - New class successfully created.
+01/25/23 00:17:39 - Student successfully added in class.
+01/25/23 00:17:39 - Students saved as Data.
+01/25/23 00:18:18 - Student expeled.01/25/23 00:24:36 - Last student`s id succsessfully copied.
+01/25/23 00:24:36 - Classes succsessfully copied.
+01/25/23 00:24:40 - Classes saved as Data.
+01/25/23 00:24:40 - Last student`s id saved.
+01/25/23 00:24:59 - Last student`s id succsessfully copied.
+01/25/23 00:24:59 - Classes succsessfully copied.
+01/25/23 00:25:22 - Student successfully added.
+01/25/23 00:25:24 - Student successfully added in class.
+01/25/23 00:25:24 - Students saved as Data.
+01/25/23 00:25:40 - Student successfully added.
+01/25/23 00:25:42 - New class successfully created.
+01/25/23 00:25:42 - Student successfully added in class.
+01/25/23 00:25:42 - Students saved as Data.
+01/25/23 00:26:43 - Last student`s id succsessfully copied.
+01/25/23 00:26:43 - Classes succsessfully copied.
+01/25/23 00:26:58 - Student successfully added.
+01/25/23 00:27:01 - Student successfully added in class.
+01/25/23 00:27:01 - Students saved as Data.
+01/25/23 00:27:17 - Student successfully added.
+01/25/23 00:27:19 - New class successfully created.
+01/25/23 00:27:19 - Student successfully added in class.
+01/25/23 00:27:19 - Students saved as Data.
+01/25/23 00:27:30 - Student expeled.
+01/25/23 23:41:18 - Last student`s id succsessfully copied.
+01/25/23 23:41:18 - Classes succsessfully copied.
+01/25/23 23:42:05 - Last student`s id succsessfully copied.
+01/25/23 23:42:05 - Classes succsessfully copied.
+01/26/23 00:33:37 - Last student`s id succsessfully copied.
+01/26/23 00:33:37 - Classes succsessfully copied.
+01/26/23 00:34:10 - Student successfully added.
+01/26/23 00:34:22 - Student successfully added in class.
+01/26/23 00:34:22 - Student saved as Data.
+01/26/23 00:36:49 - Last student`s id succsessfully copied.
+01/26/23 00:36:59 - Last student`s id succsessfully copied.
+01/26/23 00:37:30 - Last student`s id succsessfully copied.
+01/26/23 00:39:38 - Last student`s id succsessfully copied.
+01/26/23 00:39:38 - Classes succsessfully copied.
+01/26/23 00:40:07 - Student successfully added.
+01/26/23 00:40:11 - New class successfully created.
+01/26/23 00:40:11 - Student successfully added in class.
+01/26/23 00:40:50 - Last student`s id succsessfully copied.
+01/26/23 00:40:50 - Classes succsessfully copied.
+01/26/23 00:41:06 - Student successfully added.
+01/26/23 00:41:08 - New class successfully created.
+01/26/23 00:41:08 - Student successfully added in class.
+01/26/23 00:41:08 - Student saved as Data.
+01/26/23 00:43:01 - Last student`s id succsessfully copied.
+01/26/23 00:43:01 - Classes succsessfully copied.
+01/26/23 00:43:18 - Student successfully added.
+01/26/23 00:43:20 - New class successfully created.
+01/26/23 00:43:20 - Student successfully added in class.
+01/26/23 00:43:20 - Student saved as Data.
+01/26/23 00:43:34 - All students copied.
+01/26/23 00:43:45 - Students saved as Data.
+01/26/23 00:43:45 - Student expeled.
+01/26/23 00:43:58 - classes.csv created.
+01/26/23 00:44:12 - Classes saved as Data.
+01/26/23 00:44:12 - Last student`s id saved.
+01/26/23 00:49:18 - Last student`s id succsessfully copied.
+01/26/23 00:49:18 - Classes succsessfully copied.
+01/26/23 00:49:31 - All students copied.
+01/26/23 00:49:52 - Student remooved from the class.
+01/26/23 00:49:52 - Students saved as Data.
+01/26/23 00:49:52 - Student expeled.
+01/26/23 00:53:53 - All students copied.
+01/26/23 00:58:49 - Last student`s id succsessfully copied.
+01/26/23 00:58:49 - Classes succsessfully copied.
+01/26/23 00:59:30 - Last student`s id succsessfully copied.
+01/26/23 00:59:30 - Classes succsessfully copied.
+01/26/23 01:00:11 - Last student`s id succsessfully copied.
+01/26/23 01:00:11 - Classes succsessfully copied.
+01/26/23 01:01:38 - Last student`s id succsessfully copied.
+01/26/23 01:01:38 - Classes succsessfully copied.
+01/26/23 01:01:42 - All students copied.
+01/26/23 01:01:51 - Student remooved from the class.
+01/26/23 01:01:51 - Students saved as Data.
+01/26/23 01:01:51 - Student expeled.
+01/26/23 01:02:23 - Student successfully added.
+01/26/23 01:02:28 - New class successfully created.
+01/26/23 01:02:28 - Student successfully added in class.
+01/26/23 01:02:28 - Student saved as Data.
+01/26/23 01:02:53 - Classes saved as Data.
+01/26/23 01:02:53 - Last student`s id saved.
+01/26/23 01:04:21 - Last student`s id succsessfully copied.
+01/26/23 01:04:21 - Classes succsessfully copied.
+01/26/23 01:05:29 - Last student`s id succsessfully copied.
+01/26/23 01:05:29 - Classes succsessfully copied.
+01/26/23 01:05:36 - Students saved as Data.
+01/26/23 01:05:36 - Student expeled.
+01/26/23 01:06:00 - All students copied.
+01/26/23 01:06:01 - Students saved as Data.
+01/26/23 01:06:01 - Student expeled.
+01/26/23 01:07:58 - Last student`s id succsessfully copied.
+01/26/23 01:07:58 - Classes succsessfully copied.
+01/26/23 01:08:06 - Students saved as Data.
+01/26/23 01:08:06 - Student expeled.
+01/26/23 01:09:19 - Last student`s id succsessfully copied.
+01/26/23 01:09:19 - Classes succsessfully copied.
+01/26/23 01:09:30 - All students copied.
+01/26/23 01:09:35 - Students saved as Data.
+01/26/23 01:09:35 - Student expeled.
+01/26/23 01:10:30 - Students saved as Data.
+01/26/23 01:10:30 - Student expeled.
+01/27/23 20:52:13 - Last student`s id succsessfully copied.
+01/27/23 20:52:13 - Classes succsessfully copied.
+01/27/23 20:52:36 - Student successfully added.
+01/27/23 20:52:40 - New class successfully created.
+01/27/23 20:52:40 - Student successfully added in class.
+01/27/23 20:52:40 - Student saved as Data.
+01/27/23 20:53:03 - Student successfully added.
+01/27/23 20:53:08 - Student successfully added in class.
+01/27/23 20:53:08 - Student saved as Data.
+01/27/23 20:53:18 - Classes saved as Data.
+01/27/23 20:53:18 - Last student`s id saved.
+01/27/23 21:01:26 - Last student`s id succsessfully copied.
+01/27/23 21:01:26 - Classes succsessfully copied.
+01/27/23 21:02:03 - Student successfully added.
+01/27/23 21:02:04 - Student successfully added in class.
+01/27/23 21:02:04 - Student saved as Data.
+01/27/23 21:02:08 - Classes saved as Data.
+01/27/23 21:02:08 - Last student`s id saved.
+01/27/23 21:05:24 - Last student`s id succsessfully copied.
+01/27/23 21:05:24 - Classes succsessfully copied.
+01/27/23 21:05:46 - Student successfully added.
+01/27/23 21:05:47 - Student successfully added in class.
+01/27/23 21:05:47 - Student saved as Data.
+01/27/23 21:05:49 - Classes saved as Data.
+01/27/23 21:05:49 - Last student`s id saved.
+01/27/23 21:28:44 - Last student`s id succsessfully copied.
+01/27/23 21:28:44 - Classes succsessfully copied.
+01/27/23 21:29:19 - Last student`s id succsessfully copied.
+01/27/23 21:29:19 - Classes succsessfully copied.
+01/27/23 21:29:31 - Student successfully added.
+01/27/23 21:29:35 - Student successfully added in class.
+01/27/23 21:29:35 - Student saved as Data.
+01/27/23 21:29:44 - classes.csv created.
+01/27/23 21:29:54 - Classes saved as Data.
+01/27/23 21:29:54 - Last student`s id saved.
+01/27/23 21:39:35 - Last student`s id succsessfully copied.
+01/27/23 21:39:35 - Classes succsessfully copied.
+01/27/23 21:39:56 - Student successfully added.
+01/27/23 21:40:02 - New class successfully created.
+01/27/23 21:40:02 - Student successfully added in class.
+01/27/23 21:40:02 - Student saved as Data.
+01/27/23 21:40:25 - Student successfully added.
+01/27/23 21:40:30 - Student successfully added in class.
+01/27/23 21:40:30 - Student saved as Data.
+01/27/23 21:40:45 - Student successfully added.
+01/27/23 21:40:49 - New class successfully created.
+01/27/23 21:40:49 - Student successfully added in class.
+01/27/23 21:40:49 - Student saved as Data.
+01/27/23 21:41:13 - Classes saved as Data.
+01/27/23 21:41:13 - Last student`s id saved.
+01/27/23 21:43:17 - Last student`s id succsessfully copied.
+01/27/23 21:43:17 - Classes succsessfully copied.
+01/27/23 21:43:23 - All students copied.
+01/27/23 21:43:26 - Student remooved from the class.
+01/27/23 21:43:26 - Students saved as Data.
+01/27/23 21:43:26 - Student expeled.
+01/27/23 21:43:50 - Classes saved as Data.
+01/27/23 21:43:50 - Last student`s id saved.
+01/27/23 21:46:15 - Last student`s id succsessfully copied.
+01/27/23 21:46:15 - Classes succsessfully copied.
+01/27/23 21:46:41 - All students copied.
+01/27/23 21:46:41 - Students saved as Data.
+01/27/23 21:46:41 - Student expeled.
+01/27/23 21:46:57 - Classes saved as Data.
+01/27/23 21:46:57 - Last student`s id saved.
+01/27/23 21:50:14 - Last student`s id succsessfully copied.
+01/27/23 21:50:14 - Classes succsessfully copied.
+01/27/23 21:51:43 - Last student`s id succsessfully copied.
+01/27/23 21:51:43 - Classes succsessfully copied.
+01/27/23 21:53:05 - Last student`s id succsessfully copied.
+01/27/23 21:53:21 - Last student`s id succsessfully copied.
+01/27/23 21:53:21 - Classes succsessfully copied.
+01/27/23 21:54:28 - Last student`s id succsessfully copied.
+01/27/23 21:54:28 - Classes succsessfully copied.
+01/27/23 21:55:03 - Last student`s id succsessfully copied.
+01/27/23 21:55:03 - Classes succsessfully copied.
+01/27/23 21:56:18 - Last student`s id succsessfully copied.
+01/27/23 21:56:18 - Classes succsessfully copied.
+01/27/23 21:56:35 - Last student`s id succsessfully copied.
+01/27/23 21:56:35 - Classes succsessfully copied.
+01/27/23 21:57:40 - Last student`s id succsessfully copied.
+01/27/23 21:57:40 - Classes succsessfully copied.
+01/27/23 21:59:12 - Last student`s id succsessfully copied.
+01/27/23 21:59:12 - Classes succsessfully copied.
+01/27/23 22:00:23 - Last student`s id succsessfully copied.
+01/27/23 22:00:23 - Classes succsessfully copied.
+01/27/23 22:01:59 - Last student`s id succsessfully copied.
+01/27/23 22:01:59 - Classes succsessfully copied.
+01/27/23 22:03:03 - Last student`s id succsessfully copied.
+01/27/23 22:07:26 - Last student`s id succsessfully copied.
+01/27/23 22:07:26 - Classes succsessfully copied.
+01/27/23 22:07:36 - Student successfully added.
+01/27/23 22:07:46 - New class successfully created.
+01/27/23 22:07:46 - Student successfully added in class.
+01/27/23 22:07:46 - Student saved as Data.
+01/27/23 22:07:49 - Classes saved as Data.
+01/27/23 22:07:49 - Last student`s id saved.
+01/27/23 22:10:30 - Last student`s id succsessfully copied.
+01/27/23 22:10:30 - Classes succsessfully copied.
+01/27/23 22:11:33 - Last student`s id succsessfully copied.
+01/27/23 22:11:33 - Classes succsessfully copied.
+01/27/23 22:12:13 - Last student`s id succsessfully copied.
+01/27/23 22:12:13 - Classes succsessfully copied.
+01/27/23 22:12:31 - Last student`s id succsessfully copied.
+01/27/23 22:12:31 - Classes succsessfully copied.
+01/27/23 22:13:16 - Last student`s id succsessfully copied.
+01/27/23 22:13:16 - Classes succsessfully copied.
+01/27/23 22:14:13 - Last student`s id succsessfully copied.
+01/27/23 22:14:13 - Classes succsessfully copied.
+01/27/23 22:14:45 - Last student`s id succsessfully copied.
+01/27/23 22:14:45 - Classes succsessfully copied.
+01/27/23 22:20:10 - Last student`s id succsessfully copied.
+01/27/23 22:20:10 - Classes succsessfully copied.
+01/27/23 22:21:44 - Last student`s id succsessfully copied.
+01/27/23 22:21:44 - Classes succsessfully copied.
+01/27/23 22:25:36 - Last student`s id succsessfully copied.
+01/27/23 22:25:36 - Classes succsessfully copied.
+01/27/23 22:25:54 - Student successfully added.
+01/27/23 22:26:00 - New class successfully created.
+01/27/23 22:26:00 - Student successfully added in class.
+01/27/23 22:26:00 - Student saved as Data.
+01/27/23 22:26:56 - Last student`s id succsessfully copied.
+01/27/23 22:26:56 - Classes succsessfully copied.
+01/27/23 22:27:06 - Student successfully added.
+01/27/23 22:27:09 - New class successfully created.
+01/27/23 22:27:09 - Student successfully added in class.
+01/27/23 22:27:09 - Student saved as Data.
+01/27/23 22:27:12 - Classes saved as Data.
+01/27/23 22:27:12 - Last student`s id saved.
+01/27/23 22:27:33 - Last student`s id succsessfully copied.
+01/27/23 22:27:33 - Classes succsessfully copied.
+01/27/23 22:27:50 - Last student`s id succsessfully copied.
+01/27/23 22:27:50 - Classes succsessfully copied.
+01/27/23 22:27:57 - Student successfully added.
+01/27/23 22:27:59 - Student successfully added in class.
+01/27/23 22:27:59 - Student saved as Data.
+01/27/23 22:28:47 - Last student`s id succsessfully copied.
+01/27/23 22:28:47 - Classes succsessfully copied.
+01/27/23 22:28:54 - Student successfully added.
+01/27/23 22:28:57 - New class successfully created.
+01/27/23 22:28:57 - Student successfully added in class.
+01/27/23 22:28:57 - Student saved as Data.
+01/27/23 22:30:54 - Last student`s id succsessfully copied.
+01/27/23 22:30:54 - Classes succsessfully copied.
+01/27/23 22:30:59 - Student successfully added.
+01/27/23 22:31:01 - New class successfully created.
+01/27/23 22:31:01 - Student successfully added in class.
+01/27/23 22:31:01 - Student saved as Data.
+01/27/23 22:34:19 - Last student`s id succsessfully copied.
+01/27/23 22:34:19 - Classes succsessfully copied.
+01/27/23 22:34:28 - Student successfully added.
+01/27/23 22:34:29 - New class successfully created.
+01/27/23 22:34:29 - Student successfully added in class.
+01/27/23 22:34:29 - Student saved as Data.
+01/27/23 22:36:19 - Last student`s id succsessfully copied.
+01/27/23 22:36:19 - Classes succsessfully copied.
+01/27/23 22:36:23 - Student successfully added.
+01/27/23 22:36:25 - New class successfully created.
+01/27/23 22:36:25 - Student successfully added in class.
+01/27/23 22:36:25 - Student saved as Data.
+01/27/23 22:36:28 - Classes saved as Data.
+01/27/23 22:36:28 - Last student`s id saved.
+01/27/23 22:37:19 - Last student`s id succsessfully copied.
+01/27/23 22:37:19 - Classes succsessfully copied.
+01/27/23 22:37:28 - Student successfully added.
+01/27/23 22:37:30 - New class successfully created.
+01/27/23 22:37:30 - Student successfully added in class.
+01/27/23 22:37:30 - Student saved as Data.
+01/27/23 22:37:37 - Classes saved as Data.
+01/27/23 22:37:37 - Last student`s id saved.
+01/27/23 22:38:01 - Last student`s id succsessfully copied.
+01/27/23 22:38:01 - Classes succsessfully copied.
+01/27/23 22:38:09 - Student successfully added.
+01/27/23 22:38:11 - New class successfully created.
+01/27/23 22:38:11 - Student successfully added in class.
+01/27/23 22:38:11 - Student saved as Data.
+01/27/23 22:38:19 - Student successfully added.
+01/27/23 22:38:24 - New class successfully created.
+01/27/23 22:38:24 - Student successfully added in class.
+01/27/23 22:38:24 - Student saved as Data.
+01/27/23 22:38:27 - Classes saved as Data.
+01/27/23 22:38:27 - Last student`s id saved.
+01/27/23 22:43:25 - Last student`s id succsessfully copied.
+01/27/23 22:43:25 - Classes succsessfully copied.
+01/27/23 22:43:39 - Student successfully added.
+01/27/23 22:43:42 - Student successfully added in class.
+01/27/23 22:43:42 - Student saved as Data.
+01/27/23 22:43:50 - Student successfully added.
+01/27/23 22:43:53 - New class successfully created.
+01/27/23 22:43:53 - Student successfully added in class.
+01/27/23 22:43:53 - Student saved as Data.
+01/27/23 22:43:55 - Classes saved as Data.
+01/27/23 22:43:55 - Last student`s id saved.
+01/27/23 22:44:16 - Last student`s id succsessfully copied.
+01/27/23 22:44:16 - Classes succsessfully copied.
+01/27/23 22:44:22 - All students copied.
+01/27/23 22:44:22 - Student remooved from the class.
+01/27/23 22:44:22 - Students saved as Data.
+01/27/23 22:44:22 - Student expeled.
+01/27/23 22:44:28 - Classes saved as Data.
+01/27/23 22:44:28 - Last student`s id saved.
+01/27/23 22:44:46 - Last student`s id succsessfully copied.
+01/27/23 22:44:46 - Classes succsessfully copied.
+01/27/23 22:44:56 - All students copied.
+01/27/23 22:44:56 - Student remooved from the class.
+01/27/23 22:46:59 - Last student`s id succsessfully copied.
+01/27/23 22:46:59 - Classes succsessfully copied.
+01/27/23 22:47:03 - All students copied.
+01/27/23 22:47:03 - Student remooved from the class.
+01/27/23 22:47:03 - Students saved as Data.
+01/27/23 22:47:03 - Student expeled.
+01/27/23 22:50:19 - Last student`s id succsessfully copied.
+01/27/23 22:50:19 - Classes succsessfully copied.
+01/27/23 22:50:22 - All students copied.
+01/27/23 22:50:22 - Student remooved from the class.
+01/27/23 22:50:22 - Students saved as Data.
+01/27/23 22:50:22 - Student expeled.
+01/27/23 22:54:17 - Last student`s id succsessfully copied.
+01/27/23 22:54:17 - Classes succsessfully copied.
+01/27/23 22:54:20 - All students copied.
+01/27/23 22:54:20 - Student remooved from the class.
+01/27/23 22:54:20 - Class removed. No students in class.
+01/27/23 22:54:44 - Last student`s id succsessfully copied.
+01/27/23 22:54:44 - Classes succsessfully copied.
+01/27/23 22:54:49 - All students copied.
+01/27/23 22:54:49 - Student remooved from the class.
+01/27/23 22:54:49 - Students saved as Data.
+01/27/23 22:54:49 - Student expeled.
+01/27/23 22:56:12 - Last student`s id succsessfully copied.
+01/27/23 22:56:12 - Classes succsessfully copied.
+01/27/23 22:56:16 - All students copied.
+01/27/23 22:56:16 - Student remooved from the class.
+01/27/23 22:56:16 - Students saved as Data.
+01/27/23 22:56:16 - Student expeled.
+01/27/23 22:57:27 - Last student`s id succsessfully copied.
+01/27/23 22:57:27 - Classes succsessfully copied.
+01/27/23 22:57:56 - All students copied.
+01/27/23 22:57:56 - Student remooved from the class.
+01/27/23 22:57:56 - Students saved as Data.
+01/27/23 22:57:56 - Student expeled.
+01/27/23 23:00:06 - Last student`s id succsessfully copied.
+01/27/23 23:00:06 - Classes succsessfully copied.
+01/27/23 23:00:13 - All students copied.
+01/27/23 23:00:13 - Student remooved from the class.
+01/27/23 23:00:13 - Students saved as Data.
+01/27/23 23:00:13 - Student expeled.
+01/27/23 23:01:12 - Last student`s id succsessfully copied.
+01/27/23 23:01:12 - Classes succsessfully copied.
+01/27/23 23:01:14 - All students copied.
+01/27/23 23:01:14 - Student remooved from the class.
+01/27/23 23:01:14 - Students saved as Data.
+01/27/23 23:01:14 - Student expeled.
+01/27/23 23:02:23 - Last student`s id succsessfully copied.
+01/27/23 23:02:23 - Classes succsessfully copied.
+01/27/23 23:02:26 - All students copied.
+01/27/23 23:02:26 - Student remooved from the class.
+01/27/23 23:02:26 - Students saved as Data.
+01/27/23 23:02:26 - Student expeled.
+01/27/23 23:02:50 - Last student`s id succsessfully copied.
+01/27/23 23:02:50 - Classes succsessfully copied.
+01/27/23 23:02:52 - All students copied.
+01/27/23 23:02:52 - Student remooved from the class.
+01/27/23 23:02:52 - Students saved as Data.
+01/27/23 23:02:52 - Student expeled.
+01/27/23 23:03:58 - Last student`s id succsessfully copied.
+01/27/23 23:03:58 - Classes succsessfully copied.
+01/27/23 23:04:01 - All students copied.
+01/27/23 23:04:01 - Student remooved from the class.
+01/27/23 23:04:01 - Class removed. No students in class.
+01/27/23 23:04:01 - Students saved as Data.
+01/27/23 23:04:01 - Student expeled.
+01/27/23 23:04:05 - Classes saved as Data.
+01/27/23 23:04:05 - Last student`s id saved.
+01/27/23 23:05:24 - Last student`s id succsessfully copied.
+01/27/23 23:05:24 - Classes succsessfully copied.
+01/27/23 23:05:36 - Student successfully added.
+01/27/23 23:05:40 - Student successfully added in class.
+01/27/23 23:05:40 - Student saved as Data.
+01/27/23 23:06:00 - Student successfully added.
+01/27/23 23:06:02 - Student successfully added in class.
+01/27/23 23:06:02 - Student saved as Data.
+01/27/23 23:06:09 - Student successfully added.
+01/27/23 23:06:24 - Student successfully added in class.
+01/27/23 23:06:24 - Student saved as Data.
+01/27/23 23:06:30 - Student successfully added.
+01/27/23 23:06:33 - New class successfully created.
+01/27/23 23:06:33 - Student successfully added in class.
+01/27/23 23:06:33 - Student saved as Data.
+01/27/23 23:06:51 - Student successfully added.
+01/27/23 23:06:56 - New class successfully created.
+01/27/23 23:06:56 - Student successfully added in class.
+01/27/23 23:06:56 - Student saved as Data.
+01/27/23 23:07:01 - All students copied.
+01/27/23 23:07:04 - Students saved as Data.
+01/27/23 23:07:04 - Student expeled.
+01/27/23 23:07:07 - Classes saved as Data.
+01/27/23 23:07:07 - Last student`s id saved.
+01/27/23 23:09:00 - Last student`s id succsessfully copied.
+01/27/23 23:09:00 - Classes succsessfully copied.
+01/27/23 23:09:04 - All students copied.
+01/27/23 23:09:04 - Student remooved from the class.
+01/27/23 23:09:04 - Students saved as Data.
+01/27/23 23:09:04 - Student expeled.
+01/27/23 23:09:09 - Classes saved as Data.
+01/27/23 23:09:09 - Last student`s id saved.
+01/27/23 23:09:25 - Last student`s id succsessfully copied.
+01/27/23 23:09:25 - Classes succsessfully copied.
+01/27/23 23:09:29 - All students copied.
+01/27/23 23:09:29 - Student remooved from the class.
+01/27/23 23:09:29 - Students saved as Data.
+01/27/23 23:09:29 - Student expeled.
+01/27/23 23:09:31 - Classes saved as Data.
+01/27/23 23:09:31 - Last student`s id saved.
+01/27/23 23:09:45 - Last student`s id succsessfully copied.
+01/27/23 23:09:45 - Classes succsessfully copied.
+01/27/23 23:09:51 - Student successfully added.
+01/27/23 23:09:55 - New class successfully created.
+01/27/23 23:09:55 - Student successfully added in class.
+01/27/23 23:09:55 - Student saved as Data.
+01/27/23 23:09:58 - Classes saved as Data.
+01/27/23 23:09:58 - Last student`s id saved.
+01/27/23 23:10:08 - Last student`s id succsessfully copied.
+01/27/23 23:10:08 - Classes succsessfully copied.
+01/27/23 23:10:12 - All students copied.
+01/27/23 23:10:17 - Student remooved from the class.
+01/27/23 23:10:17 - Students saved as Data.
+01/27/23 23:10:17 - Student expeled.
+01/27/23 23:10:19 - Classes saved as Data.
+01/27/23 23:10:19 - Last student`s id saved.
+01/27/23 23:10:34 - Last student`s id succsessfully copied.
+01/27/23 23:10:34 - Classes succsessfully copied.
+01/27/23 23:10:39 - Student successfully added.
+01/27/23 23:10:42 - New class successfully created.
+01/27/23 23:10:42 - Student successfully added in class.
+01/27/23 23:10:42 - Student saved as Data.
+01/27/23 23:10:47 - All students copied.
+01/27/23 23:10:47 - Students saved as Data.
+01/27/23 23:10:47 - Student expeled.
+01/27/23 23:10:49 - Classes saved as Data.
+01/27/23 23:10:49 - Last student`s id saved.
+01/27/23 23:12:41 - Last student`s id succsessfully copied.
+01/27/23 23:12:41 - Classes succsessfully copied.
+01/27/23 23:12:46 - Student successfully added.
+01/27/23 23:12:50 - New class successfully created.
+01/27/23 23:12:50 - Student successfully added in class.
+01/27/23 23:12:50 - Student saved as Data.
+01/27/23 23:12:57 - All students copied.
+01/27/23 23:12:59 - Students saved as Data.
+01/27/23 23:12:59 - Student expeled.
+01/27/23 23:13:02 - Classes saved as Data.
+01/27/23 23:13:02 - Last student`s id saved.
+01/27/23 23:13:20 - Last student`s id succsessfully copied.
+01/27/23 23:13:20 - Classes succsessfully copied.
+01/27/23 23:13:25 - Student successfully added.
+01/27/23 23:13:27 - New class successfully created.
+01/27/23 23:13:27 - Student successfully added in class.
+01/27/23 23:13:27 - Student saved as Data.
+01/27/23 23:13:31 - All students copied.
+01/27/23 23:13:31 - Students saved as Data.
+01/27/23 23:13:31 - Student expeled.
+01/27/23 23:13:33 - Classes saved as Data.
+01/27/23 23:13:33 - Last student`s id saved.
+01/27/23 23:15:28 - Last student`s id succsessfully copied.
+01/27/23 23:15:28 - Classes succsessfully copied.
+01/27/23 23:15:34 - Student successfully added.
+01/27/23 23:15:36 - New class successfully created.
+01/27/23 23:15:36 - Student successfully added in class.
+01/27/23 23:15:36 - Student saved as Data.
+01/27/23 23:15:39 - All students copied.
+01/27/23 23:15:39 - Students saved as Data.
+01/27/23 23:15:39 - Student expeled.
+01/27/23 23:15:41 - Classes saved as Data.
+01/27/23 23:15:41 - Last student`s id saved.
+01/27/23 23:20:12 - Last student`s id succsessfully copied.
+01/27/23 23:20:12 - Classes succsessfully copied.
+01/27/23 23:20:28 - Student successfully added.
+01/27/23 23:20:30 - New class successfully created.
+01/27/23 23:20:30 - Student successfully added in class.
+01/27/23 23:20:49 - Last student`s id succsessfully copied.
+01/27/23 23:20:49 - Classes succsessfully copied.
+01/27/23 23:20:53 - Student successfully added.
+01/27/23 23:20:55 - New class successfully created.
+01/27/23 23:20:55 - Student successfully added in class.
+01/27/23 23:20:55 - Student saved as Data.
+01/27/23 23:21:07 - All students copied.
+01/27/23 23:21:07 - Students saved as Data.
+01/27/23 23:21:07 - Student expeled.
+01/27/23 23:21:16 - All students copied.
+01/27/23 23:21:16 - Students saved as Data.
+01/27/23 23:21:16 - Student expeled.
+01/27/23 23:21:20 - All students copied.
+01/27/23 23:21:20 - Students saved as Data.
+01/27/23 23:21:20 - Student expeled.
+01/27/23 23:21:24 - Classes saved as Data.
+01/27/23 23:21:24 - Last student`s id saved.
+01/27/23 23:21:50 - Last student`s id succsessfully copied.
+01/27/23 23:21:50 - Classes succsessfully copied.
+01/27/23 23:22:10 - Last student`s id succsessfully copied.
+01/27/23 23:22:10 - Classes succsessfully copied.
+01/27/23 23:22:15 - All students copied.
+01/27/23 23:22:15 - Student remooved from the class.
+01/27/23 23:22:15 - Students saved as Data.
+01/27/23 23:22:15 - Student expeled.
+01/27/23 23:22:22 - Classes saved as Data.
+01/27/23 23:22:22 - Last student`s id saved.
+01/27/23 23:23:04 - Last student`s id succsessfully copied.
+01/27/23 23:23:04 - Classes succsessfully copied.
+01/27/23 23:23:09 - Student successfully added.
+01/27/23 23:23:11 - New class successfully created.
+01/27/23 23:23:11 - Student successfully added in class.
+01/27/23 23:23:11 - Student saved as Data.
+01/27/23 23:23:21 - All students copied.
+01/27/23 23:23:21 - Students saved as Data.
+01/27/23 23:23:21 - Student expeled.
+01/27/23 23:23:29 - Classes saved as Data.
+01/27/23 23:23:29 - Last student`s id saved.
+01/27/23 23:25:17 - Last student`s id succsessfully copied.
+01/27/23 23:25:17 - Classes succsessfully copied.
+01/27/23 23:25:22 - Student successfully added.
+01/27/23 23:25:24 - New class successfully created.
+01/27/23 23:25:24 - Student successfully added in class.
+01/27/23 23:25:24 - Student saved as Data.
+01/27/23 23:25:37 - Classes saved as Data.
+01/27/23 23:25:37 - Last student`s id saved.
+01/27/23 23:30:34 - Last student`s id succsessfully copied.
+01/27/23 23:30:39 - Classes succsessfully copied.
+01/27/23 23:30:42 - All students copied.
+01/27/23 23:30:42 - Student remooved from the class.
+01/27/23 23:30:42 - Students saved as Data.
+01/27/23 23:30:42 - Student expeled.
+01/27/23 23:30:42 - Classes saved as Data.
+01/27/23 23:30:44 - Last student`s id saved.
+01/27/23 23:31:03 - Last student`s id succsessfully copied.
+01/27/23 23:31:07 - Student successfully added.
+01/27/23 23:31:07 - Classes succsessfully copied.
+01/27/23 23:31:09 - New class successfully created.
+01/27/23 23:31:09 - Student successfully added in class.
+01/27/23 23:31:09 - Classes saved as Data.
+01/27/23 23:31:09 - Student saved as Data.
+01/27/23 23:31:12 - Classes succsessfully copied.
+01/27/23 23:31:15 - All students copied.
+01/27/23 23:31:15 - Student remooved from the class.
+01/27/23 23:31:15 - Students saved as Data.
+01/27/23 23:31:15 - Student expeled.
+01/27/23 23:31:15 - Classes saved as Data.
+01/27/23 23:31:17 - Last student`s id saved.
+01/27/23 23:31:50 - Last student`s id succsessfully copied.
+01/27/23 23:31:53 - All students copied.
+01/27/23 23:31:53 - students.csv created.
+01/27/23 23:32:28 - Last student`s id succsessfully copied.
+01/27/23 23:32:30 - Classes succsessfully copied.
+01/27/23 23:32:30 - classes.csv created.
+01/27/23 23:32:48 - Student successfully added.
+01/27/23 23:32:48 - Classes succsessfully copied.
+01/27/23 23:32:50 - New class successfully created.
+01/27/23 23:32:50 - Student successfully added in class.
+01/27/23 23:32:50 - Classes saved as Data.
+01/27/23 23:32:50 - Student saved as Data.
+01/27/23 23:32:52 - Classes succsessfully copied.
+01/27/23 23:32:52 - classes.csv created.
+01/27/23 23:33:02 - Last student`s id saved.
+01/27/23 23:35:46 - Last student`s id succsessfully copied.
+01/27/23 23:35:48 - Classes succsessfully copied.
+01/27/23 23:35:48 - All students copied.
+01/27/23 23:35:48 - classes.csv created.
+01/27/23 23:40:36 - Last student`s id succsessfully copied.
+01/27/23 23:40:40 - Classes succsessfully copied.
+01/27/23 23:40:40 - All students copied.
+01/27/23 23:41:30 - Last student`s id succsessfully copied.
+01/27/23 23:41:31 - Classes succsessfully copied.
+01/27/23 23:41:31 - All students copied.
+01/27/23 23:41:54 - Last student`s id succsessfully copied.
+01/27/23 23:41:57 - Classes succsessfully copied.
+01/27/23 23:41:57 - All students copied.
+01/27/23 23:41:57 - classes.csv created.
+01/27/23 23:42:08 - Last student`s id saved.
+01/27/23 23:43:47 - Last student`s id succsessfully copied.
+01/27/23 23:43:50 - Classes succsessfully copied.
+01/27/23 23:43:50 - All students copied.
+01/27/23 23:43:50 - classes.csv created.
+01/27/23 23:44:20 - Last student`s id saved.
+01/27/23 23:44:22 - Last student`s id succsessfully copied.
+01/27/23 23:44:24 - Classes succsessfully copied.
+01/27/23 23:44:24 - All students copied.
+01/27/23 23:46:39 - Last student`s id succsessfully copied.
+01/27/23 23:46:44 - Classes succsessfully copied.
+01/27/23 23:46:44 - All students copied.
+01/27/23 23:46:44 - classes.csv created.
+01/27/23 23:47:47 - Classes succsessfully copied.
+01/27/23 23:47:47 - All students copied.
+01/27/23 23:47:47 - classes.csv created.
+01/27/23 23:48:00 - Student successfully added.
+01/27/23 23:48:00 - Classes succsessfully copied.
+01/27/23 23:48:06 - New class successfully created.
+01/27/23 23:48:06 - Student successfully added in class.
+01/27/23 23:48:06 - Classes saved as Data.
+01/27/23 23:48:06 - Student saved as Data.
+01/27/23 23:48:15 - Classes succsessfully copied.
+01/27/23 23:48:15 - All students copied.
+01/27/23 23:48:15 - classes.csv created.
+01/27/23 23:48:23 - Classes succsessfully copied.
+01/27/23 23:48:28 - All students copied.
+01/27/23 23:48:29 - Student remooved from the class.
+01/27/23 23:48:29 - Students saved as Data.
+01/27/23 23:48:29 - Student expeled.
+01/27/23 23:48:29 - Classes saved as Data.
+01/27/23 23:48:31 - Classes succsessfully copied.
+01/27/23 23:48:31 - All students copied.
+01/27/23 23:48:31 - classes.csv created.
+01/27/23 23:48:38 - Last student`s id saved.
+01/27/23 23:56:50 - Last student`s id succsessfully copied.
+01/27/23 23:56:53 - Classes succsessfully copied.
+01/27/23 23:56:55 - All students copied.
+01/27/23 23:56:55 - Student remooved from the class.
+01/27/23 23:56:55 - Students saved as Data.
+01/27/23 23:56:55 - Student expeled.
+01/27/23 23:56:55 - Classes saved as Data.
+01/27/23 23:57:07 - All students copied.
+01/27/23 23:57:37 - Student successfully renamed.
+01/27/23 23:57:37 - Students saved as Data.
+01/27/23 23:57:42 - Last student`s id saved.
+01/28/23 00:09:10 - Last student`s id succsessfully copied.
+01/28/23 00:09:13 - Classes succsessfully copied.
+01/28/23 00:09:16 - All students copied.
+01/28/23 00:09:27 - Student remooved from the class.
+01/28/23 00:09:27 - Class removed. No students in class.
+01/28/23 00:09:27 - Classes saved as Data.
+01/28/23 00:09:27 - Classes succsessfully copied.
+01/28/23 00:09:32 - New class successfully created.
+01/28/23 00:09:32 - Student successfully added in class.
+01/28/23 00:09:32 - Classes saved as Data.
+01/28/23 00:09:32 - Student transfered.
+01/28/23 00:09:36 - Last student`s id saved.
+01/28/23 00:25:54 - Last student`s id succsessfully copied.
+01/28/23 00:26:06 - Student successfully added.
+01/28/23 00:26:06 - Classes succsessfully copied.
+01/28/23 00:26:07 - Student successfully added in class.
+01/28/23 00:26:07 - Classes saved as Data.
+01/28/23 00:26:07 - Student saved as Data.
+01/28/23 00:26:11 - Classes succsessfully copied.
+01/28/23 00:26:15 - All students copied.
+01/28/23 00:26:31 - Students saved as Data.
+01/28/23 00:26:31 - Student expeled.
+01/28/23 00:26:31 - Classes saved as Data.
+01/28/23 00:26:38 - Last student`s id saved.
+01/28/23 00:26:55 - Last student`s id succsessfully copied.
+01/28/23 00:27:02 - Student successfully added.
+01/28/23 00:27:02 - Classes succsessfully copied.
+01/28/23 00:27:05 - New class successfully created.
+01/28/23 00:27:05 - Student successfully added in class.
+01/28/23 00:27:05 - Classes saved as Data.
+01/28/23 00:27:05 - Student saved as Data.
+01/28/23 00:27:09 - Last student`s id saved.
+01/28/23 00:27:31 - Last student`s id succsessfully copied.
+01/28/23 00:27:37 - Student successfully added.
+01/28/23 00:27:37 - Classes succsessfully copied.
+01/28/23 00:27:42 - Student successfully added in class.
+01/28/23 00:27:42 - Classes saved as Data.
+01/28/23 00:27:42 - Student saved as Data.
+01/28/23 00:27:52 - Student successfully added.
+01/28/23 00:27:52 - Classes succsessfully copied.
+01/28/23 00:27:54 - Student successfully added in class.
+01/28/23 00:27:54 - Classes saved as Data.
+01/28/23 00:27:54 - Student saved as Data.
+01/28/23 00:28:01 - Classes succsessfully copied.
+01/28/23 00:28:04 - All students copied.
+01/28/23 00:28:08 - Students saved as Data.
+01/28/23 00:28:08 - Student expeled.
+01/28/23 00:28:08 - Classes saved as Data.
+01/28/23 00:28:22 - Last student`s id saved.
+01/28/23 00:32:15 - Last student`s id succsessfully copied.
+01/28/23 00:32:18 - Classes succsessfully copied.
+01/28/23 00:32:21 - All students copied.
+01/28/23 00:32:25 - Students saved as Data.
+01/28/23 00:32:25 - Student expeled.
+01/28/23 00:32:25 - Classes saved as Data.
+01/28/23 00:35:06 - Last student`s id saved.
+01/28/23 00:35:11 - Last student`s id succsessfully copied.
+01/28/23 00:35:13 - Classes succsessfully copied.
+01/28/23 00:35:17 - All students copied.
+01/28/23 00:35:18 - Student remooved from the class.
+01/28/23 00:35:18 - Class removed. No students in class.
+01/28/23 00:35:18 - Students saved as Data.
+01/28/23 00:35:18 - Student expeled.
+01/28/23 00:35:18 - Classes saved as Data.
+01/28/23 00:35:31 - Student successfully added.
+01/28/23 00:35:31 - Classes succsessfully copied.
+01/28/23 00:35:36 - Student successfully added in class.
+01/28/23 00:35:36 - Classes saved as Data.
+01/28/23 00:35:36 - Student saved as Data.
+01/28/23 00:35:41 - Last student`s id saved.
+01/28/23 20:29:29 - Last student`s id succsessfully copied.
+01/28/23 20:29:40 - Student successfully added.
+01/28/23 20:29:40 - Classes succsessfully copied.
+01/28/23 20:29:46 - New class successfully created.
+01/28/23 20:29:46 - Student successfully added in class.
+01/28/23 20:29:46 - Classes saved as Data.
+01/28/23 20:29:46 - Student saved as Data.
+01/28/23 20:29:52 - Student successfully added.
+01/28/23 20:29:52 - Classes succsessfully copied.
+01/28/23 20:29:55 - New class successfully created.
+01/28/23 20:29:55 - Student successfully added in class.
+01/28/23 20:29:55 - Classes saved as Data.
+01/28/23 20:29:55 - Student saved as Data.
+01/28/23 20:30:02 - Student successfully added.
+01/28/23 20:30:02 - Classes succsessfully copied.
+01/28/23 20:30:07 - Student successfully added in class.
+01/28/23 20:30:07 - Classes saved as Data.
+01/28/23 20:30:07 - Student saved as Data.
+01/28/23 20:30:13 - Last student`s id saved.
+01/28/23 20:30:51 - Last student`s id succsessfully copied.
+01/28/23 20:31:02 - Student successfully added.
+01/28/23 20:31:02 - Classes succsessfully copied.
+01/28/23 20:31:12 - New class successfully created.
+01/28/23 20:31:12 - Student successfully added in class.
+01/28/23 20:31:12 - Classes saved as Data.
+01/28/23 20:31:12 - Student saved as Data.
+01/28/23 20:31:20 - Student successfully added.
+01/28/23 20:31:20 - Classes succsessfully copied.
+01/28/23 20:31:24 - Student successfully added in class.
+01/28/23 20:31:24 - Classes saved as Data.
+01/28/23 20:31:24 - Student saved as Data.
+01/28/23 20:31:36 - Last student`s id saved.
+01/28/23 20:33:28 - Last student`s id succsessfully copied.
+01/28/23 20:33:52 - Student successfully added.
+01/28/23 20:33:52 - Classes succsessfully copied.
+01/28/23 20:34:11 - Student successfully added in class.
+01/28/23 20:34:11 - Classes saved as Data.
+01/28/23 20:34:11 - Student saved as Data.
+01/28/23 20:34:15 - Classes succsessfully copied.
+01/28/23 20:34:22 - All students copied.
+01/28/23 20:34:22 - Student remooved from the class.
+01/28/23 20:34:22 - Students saved as Data.
+01/28/23 20:34:22 - Student expeled.
+01/28/23 20:34:22 - Classes saved as Data.
+01/28/23 20:34:31 - Classes succsessfully copied.
+01/28/23 20:34:33 - All students copied.
+01/28/23 20:34:33 - Student remooved from the class.
+01/28/23 20:34:33 - Class removed. No students in class.
+01/28/23 20:34:33 - Students saved as Data.
+01/28/23 20:34:33 - Student expeled.
+01/28/23 20:34:33 - Classes saved as Data.
+01/28/23 20:34:40 - Classes succsessfully copied.
+01/28/23 20:34:43 - All students copied.
+01/28/23 20:34:48 - Student remooved from the class.
+01/28/23 20:34:48 - Class removed. No students in class.
+01/28/23 20:34:48 - Students saved as Data.
+01/28/23 20:34:48 - Student expeled.
+01/28/23 20:34:48 - Classes saved as Data.
+01/28/23 20:35:51 - Classes succsessfully copied.
+01/28/23 20:35:54 - All students copied.
+01/28/23 20:35:54 - Student remooved from the class.
+01/28/23 20:35:54 - Class removed. No students in class.
+01/28/23 20:35:54 - Students saved as Data.
+01/28/23 20:35:54 - Student expeled.
+01/28/23 20:35:54 - Classes saved as Data.
+01/28/23 20:36:17 - All students copied.
+01/28/23 20:36:17 - students.csv created.
+01/28/23 20:36:31 - Classes succsessfully copied.
+01/28/23 20:36:31 - All students copied.
+01/28/23 20:36:31 - classes.csv created.
+01/28/23 20:37:21 - All students copied.
+01/28/23 20:38:06 - Student successfully renamed.
+01/28/23 20:38:06 - Students saved as Data.
+01/28/23 20:38:29 - Last student`s id saved.
+01/28/23 20:41:12 - Last student`s id succsessfully copied.
+01/28/23 20:41:16 - All students copied.
+01/28/23 20:42:15 - Last student`s id succsessfully copied.
+01/28/23 20:42:19 - All students copied.
+01/28/23 20:42:45 - Student successfully renamed.
+01/28/23 20:42:45 - Students saved as Data.
+01/28/23 20:42:52 - All students copied.
+01/28/23 20:42:52 - students.csv created.
+01/28/23 20:42:52 - Classes succsessfully copied.
+01/28/23 20:42:52 - All students copied.
+01/28/23 20:42:52 - classes.csv created.
+01/28/23 20:43:26 - Classes succsessfully copied.
+01/28/23 20:43:37 - All students copied.
+01/28/23 20:43:37 - Student remooved from the class.
+01/28/23 20:43:37 - Classes saved as Data.
+01/28/23 20:43:37 - Classes succsessfully copied.
+01/28/23 20:43:48 - New class successfully created.
+01/28/23 20:43:48 - Student successfully added in class.
+01/28/23 20:43:48 - Classes saved as Data.
+01/28/23 20:43:48 - Student transfered.
+01/28/23 20:43:52 - Classes succsessfully copied.
+01/28/23 20:43:55 - All students copied.
+01/28/23 20:43:55 - Student remooved from the class.
+01/28/23 20:43:55 - Classes saved as Data.
+01/28/23 20:43:55 - Classes succsessfully copied.
+01/28/23 20:44:00 - Student successfully added in class.
+01/28/23 20:44:00 - Classes saved as Data.
+01/28/23 20:44:00 - Student transfered.
+01/28/23 20:44:10 - Classes succsessfully copied.
+01/28/23 20:44:11 - All students copied.
+01/28/23 20:44:11 - Student remooved from the class.
+01/28/23 20:44:11 - Class removed. No students in class.
+01/28/23 20:44:11 - Students saved as Data.
+01/28/23 20:44:11 - Student expeled.
+01/28/23 20:44:11 - Classes saved as Data.
+01/28/23 20:44:12 - Classes succsessfully copied.
+01/28/23 20:44:14 - All students copied.
+01/28/23 20:44:14 - Student remooved from the class.
+01/28/23 20:44:14 - Class removed. No students in class.
+01/28/23 20:44:14 - Students saved as Data.
+01/28/23 20:44:14 - Student expeled.
+01/28/23 20:44:14 - Classes saved as Data.
+01/28/23 20:44:26 - All students copied.
+01/28/23 20:44:26 - students.csv created.
+01/28/23 20:44:26 - Classes succsessfully copied.
+01/28/23 20:44:26 - All students copied.
+01/28/23 20:44:26 - classes.csv created.
+01/28/23 20:44:36 - Last student`s id saved.
+01/28/23 20:45:06 - Last student`s id succsessfully copied.
+01/28/23 20:45:08 - All students copied.
+01/28/23 20:45:08 - students.csv created.
+01/28/23 20:45:08 - Classes succsessfully copied.
+01/28/23 20:45:08 - All students copied.
+01/28/23 20:45:08 - classes.csv created.
+01/28/23 20:45:28 - Last student`s id saved.
+01/28/23 20:48:48 - Last student`s id succsessfully copied.
+01/28/23 20:48:53 - Last student`s id saved.
