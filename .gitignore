@@ -397,4 +397,6 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# My files and folders
 Homework/Homework_028/.venv/
+config.ini
