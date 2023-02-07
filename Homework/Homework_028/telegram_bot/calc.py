@@ -6,10 +6,6 @@ class Calc:
     def __init__(self, user_input = ['1', '+', '1']):
         self.reset()
         self.formula = user_input
-
-        print(self.formula)
-        input('>>>>>>>>')
-
         self.float_elements()
         self.calculation_queue()
         self.int_result()

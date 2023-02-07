@@ -1,7 +1,7 @@
-from controller import BotCalc
+from controller import MyBot
 
 def main():
-    bot = BotCalc()
+    bot = MyBot()
 
 
 if __name__ == "__main__":
