@@ -1,9 +1,10 @@
-from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton, Bot
+from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton, KeyboardButton, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler, CallbackQueryHandler, MessageHandler, filters
 from configparser import ConfigParser
 import phonebook
 import os
 import calc
+import logging
 
 
 try:
@@ -12,6 +13,12 @@ try:
     TOKEN = conf['TOKENS']['python-telegram-bot']
 except IndexError:
     print('Error. Missing ".\config.ini".')
+
+
+logging.basicConfig(
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO, filename='bot.log', filemode='a'
+)
+logger = logging.getLogger(__name__)
 
 
 class MyBot:
@@ -90,21 +97,38 @@ class MyBot:
         self.get_input = str()
         self.change_input = str()
 
+        # menu
+        self.menu_keyboard = [
+            [KeyboardButton('Calculator')],
+            [KeyboardButton('Phonebook')]
+        ]
+
+
         self.server_start()
 
 
-    async def start_calc(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
+    async def start_menu(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         self.new_update = update
         self.new_context = context
         self.username = update.effective_user.first_name
+        self.bot_option = str()
+
+        welcom_text = 'Hello, ' + self.username + '!'
+        await context.bot.send_message(chat_id=update.effective_chat.id, text=welcom_text, reply_markup=ReplyKeyboardMarkup(self.menu_keyboard, one_time_keyboard=True))
+
+
+    async def menu_bottons(self, update: Update, context: ContextTypes):
+        self.new_update = update
+        self.new_context = context
+        if 'Calculator' in update.message.text:
+            await self.start_calc(self.new_update, self.new_context)
+        if 'Phonebook' in update.message.text:
+            await self.phonebook(self.new_update, self.new_context)
+
+
+    async def start_calc(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         self.bot_option = 'calc'
-
-        await update.message.reply_text(f'Hello, {self.username}!')
         await self.calc_view()
-
-
-    async def calc_close(self):
-        await self.new_update.message.reply_text(f'{self.username}, I hope my math was accurate.\nIf you need to do math again use /calc.\nUse /help to see more.')
 
 
     async def help(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -171,7 +195,7 @@ class MyBot:
                 self.settings_restart()
                 self.bot_option = str()
 
-                await self.calc_close()
+                await self.start_menu(self.new_update, self.new_context)
 
         elif self.bot_option == 'phonebook':
             self.ph_option = query_data
@@ -244,9 +268,9 @@ class MyBot:
         self.username = update.effective_user.first_name
         self.bot_option = 'phonebook'
 
-        await update.message.reply_text(f'Hello, {self.username}!')
         await self.new_update.message.reply_text('Enter the path to your phonebook.\nIf you don`t have any, enter the path you want to create one.')
         await self.new_update.message.reply_text('Your phonebook must have .csv extension. Example:\n\nPhoneNumber;FirstName;LastName\n{phone};{first name};{last name}')
+        await self.new_update.message.reply_text('Use /back_to_the_menu to exit phonebook.')
 
 
     async def phonebook_main_view(self):
@@ -324,13 +348,14 @@ class MyBot:
         print('Server started.')
         self.app = ApplicationBuilder().token(TOKEN).build()
 
+        self.app.add_handler(CommandHandler('start', self.start_menu))
+        self.app.add_handler(CommandHandler('back_to_the_menu', self.start_menu))
         self.app.add_handler(CommandHandler('help', self.help))
         self.app.add_handler(CommandHandler('calc', self.start_calc))
         self.app.add_handler(CommandHandler('phonebook', self.phonebook))
 
         self.app.add_handler(CallbackQueryHandler(self.button))
-        self.app.add_handler(MessageHandler(filters.TEXT, self.phonebook_data))
-
+        self.app.add_handler(MessageHandler(filters.TEXT, self.menu_bottons))
 
         self.app.run_polling()
 
